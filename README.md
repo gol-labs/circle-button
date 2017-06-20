@@ -1,1 +1,1 @@
-# logo
+# [logo](http://gol.chat/logo)
